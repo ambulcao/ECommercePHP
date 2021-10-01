@@ -3,7 +3,7 @@
     "minimum-stability": "dev",
     "type": "library",
     "description": "Classes PHP",
-    "homepage": "",
+    "homepage": "https://github.com/ambulcao/ECommercePHP/blob/main/vendor/hdevbr/php-classes/",
     "authors": [{
         "name": "Alexandre Bulcao",
         "email": "ambulcao@gmail.com"
